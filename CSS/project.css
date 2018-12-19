@@ -26,7 +26,7 @@
         width: 120%;
         opacity: 0;
         transition: .4s ease;
-        background-color: rgb(150, 151, 150);
+        background-color: aliceblue;
     }
       
     .imageContainer:hover .overlay {
