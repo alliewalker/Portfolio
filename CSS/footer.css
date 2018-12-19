@@ -1,0 +1,14 @@
+footer {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    text-align: center;
+    background-color: aliceblue;
+    height: 15px;
+
+}
+
+#footer li {
+    display: inline;
+    align-items: center;
+    padding-inline-end: 18px;
+}

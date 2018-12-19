@@ -1,0 +1,32 @@
+/* .control-group{
+    text-align: center;
+    margin-right: -60vw;
+    /* padding-right: -60vw;
+    padding-bottom: 10px;
+    margin-block-end: 10px;
+} */ 
+
+.row {
+    margin: 25px 0;
+    display:block;
+    max-width: 1080px;
+}
+
+#email, #name {
+    display:inline-block;
+    width:48%;
+    margin-bottom: 2vh;
+}
+
+#name {
+    float: left;
+}
+
+#email {
+    float:right;
+}
+
+#contact{
+    font-size: 30px;
+    text-align: center;
+}

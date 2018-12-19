@@ -1,0 +1,69 @@
+body  {
+  height: 100%;
+  width: 100%;
+}
+
+.images{
+  display:flex; 
+  flex-flow: row;
+  justify-content: center;
+  height: 300px;
+  width: 1200px;
+  padding: 0;
+  margin: auto;
+ 
+}
+
+#imageRow {
+  display:flex; 
+  flex-flow: row;
+  justify-content: center;
+  width: 80%;
+  height: 35vh;
+  margin: auto;
+
+}
+
+.imageWrapper {
+  height: 94%;
+  width: 33%;
+  margin-right: 1em;
+  background-size: 100% auto;
+  background-repeat: no-repeat;
+}
+
+.rowImage {
+  display: flex;
+  width: 20vw;
+  height: auto;
+}
+
+.image {
+  max-width: 300px;
+  height: auto;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Thasadith', sans-serif;
+  font-size: 40px;
+}
+
+.controls{
+  font-family: 'Thasadith', sans-serif;
+  display:flex; 
+  flex-flow: row;
+  justify-content: center;
+  max-width: 100%;
+
+}
+
+.submit{
+  font-family: 'Thasadith', sans-serif;
+  background-color: black;
+  color: white;
+}
+
+body{
+background-color: rgb(221, 219, 219)
+}
