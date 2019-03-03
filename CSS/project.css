@@ -5,7 +5,7 @@
         justify-content: center;
         align-content: space-between;
         margin-left: 70px;
-        left: 250px;
+        left: 220px;
     }
 
       .image {
@@ -48,29 +48,29 @@
     }
 
 
-.codePen{
-margin: 5%;
-}
+    .codePen{
+    margin: 5%;
+    }
 
 
-.tutorial{
-margin: 5%;
-}
+    .tutorial{
+    margin: 5%;
+    }
 
-.api{
- margin:5%;
-}
+    .api{
+    margin:5%;
+    }
 
-#myPortfolio{
-    text-align: center;
-    font-size: 30px;
-}
+    #myPortfolio{
+        text-align: center;
+        font-size: 30px;
+    }
 
-.projectWrapper{
+    .projectWrapper{
 
-    display:flex; 
-    flex-flow: row;
-    justify-content: center;
-    max-width: 60%;
-  
-}
+        display:flex; 
+        flex-flow: row;
+        justify-content: center;
+        max-width: 60%;
+    
+    }
